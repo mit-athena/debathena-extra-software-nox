@@ -1,3 +1,10 @@
+debathena-extra-software-nox (1.6) unstable; urgency=low
+
+  * Remove krb5-clients and vgrind, as those packages are no longer
+    provided by upstream
+
+ -- Victor Vasiliev <vasilvv@mit.edu>  Thu, 27 Mar 2014 00:49:24 -0400
+
 debathena-extra-software-nox (1.5) unstable; urgency=low
 
   [ Jonathan Reed ]
