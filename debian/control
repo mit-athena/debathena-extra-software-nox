@@ -41,7 +41,7 @@ Depends: build-essential, debathena-debian-dev,
   ${debathena-libstdc5-depends},
   ${misc:Depends}
 Recommends: ckermit,
-  openjdk-6-jdk,
+  default-jdk,
   x3270,
   manpages-posix-dev, manpages-dev,
 Description: Athena auxiliary software, non-graphical

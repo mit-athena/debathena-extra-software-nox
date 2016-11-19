@@ -1,3 +1,9 @@
+debathena-extra-software-nox (1.7) unstable; urgency=medium
+
+  * Replace OpenJDK 6 recommend with metapackage default-jdk
+
+ -- Lizhou Sha <slz@mit.edu>  Fri, 18 Nov 2016 23:23:27 -0500
+
 debathena-extra-software-nox (1.6) unstable; urgency=low
 
   * Remove krb5-clients and vgrind, as those packages are no longer
